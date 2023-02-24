@@ -1,0 +1,19 @@
+{
+    "name": "my-test-package",
+    "version": "0.1.0",
+    "description": "📦 npm package tutorial",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "license": "MIT"
+}
