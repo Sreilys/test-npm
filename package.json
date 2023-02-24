@@ -1,5 +1,5 @@
 {
-    "name": "my-test-package",
+    "name": "@testingsabrina/my-test-package",
     "version": "0.1.0",
     "description": "📦 npm package tutorial",
     "main": "index.js",
